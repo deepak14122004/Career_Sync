@@ -16,7 +16,7 @@
 - **Frontend**: [Svelte](https://svelte.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
-- **Backend & Hosting**: [Firebase](https://firebase.google.com/)&#8203;:contentReference[oaicite:2]{index=2}
+- **Backend & Hosting**: [Firebase](https://firebase.google.com/)
 
 ---
 
