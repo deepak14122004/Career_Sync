@@ -1,6 +1,32 @@
-# sv
+# Career_Sync
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+**Career_Sync** is a web application designed to streamline the job search process by providing users with personalized job recommendations and application tracking features.
+
+---
+
+## 🚀 Features
+
+- **User Authentication**: Secure login and registration system to protect user data.
+- **Responsive Design**: Ensures optimal viewing experience across various devices.&#8203;:contentReference[oaicite:1]{index=1}
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: [Svelte](https://svelte.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Backend & Hosting**: [Firebase](https://firebase.google.com/)&#8203;:contentReference[oaicite:2]{index=2}
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/deepak14122004/Career_Sync.git
+   cd Career_Sync
+
 
 ## Creating a project
 
